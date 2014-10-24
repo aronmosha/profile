@@ -1,0 +1,54 @@
+body{
+	margin: 0px;
+	font-size: 14px;
+	font-family: ubuntu;
+}
+.row{
+	margin-bottom: 0px;
+	padding: 0px;
+}
+.container{
+	/*width: 70%;*/
+}
+.header{
+	background: #E0EFF1;
+	margin-top: 0px;
+	padding-top: 30px;
+}
+.social{
+	margin-top: 10px;
+}
+.social i{
+	font-size: 18px;
+}
+.fa-facebook-square{
+	color: ‪#3b5998;
+}
+.fa-twitter-square{
+	color: #33CCFF;‬
+}
+.fa-github-square{
+	color:#171515;	
+}
+.content-left{
+	background:#88C6C9;
+	height: inherit;
+	min-height: 208px; 
+}
+.content-right{
+	/*height: 30px;*/
+	background:#ffffff;
+}
+.content-title{
+	background:#7DB4B5; 
+
+	/*background:#7DB4B5; */
+}
+.add{
+	font-size: 12px;
+	text-align: center;
+}
+.list{
+
+	border-bottom: 1px #88C6C9 solid;
+}
